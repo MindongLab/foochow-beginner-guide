@@ -4,12 +4,12 @@
 * [简介](README.md)
 
 ## 语言学基础
-* [Linguistics Basics](linguistics-basics.md)
+* [汉语概要](汉语概要.md)
 * [闽东语分类](闽东语分类.md)
 
 ## 福州话基础
 * [声母](声母.md)
-* [韵母](sdfsdf.md)
+* [韵母](韵母.md)
 * [声调](声调.md)
 * [连读](连读.md)
 
