@@ -1,10 +1,14 @@
 # Summary
 
-## Introduction
-* [Introduction](README.md)
+## 入门
+* [简介](README.md)
 
-## Linguistics Basics
+## 语言学基础
 * [Linguistics Basics](linguistics-basics.md)
-* [2](2.md)
-    * [sdfsdf](sdfsdf.md)
+
+## 福州话基础
+* [声母](2.md)
+* [韵母](sdfsdf.md)
+* 声调
+* 连读
 
